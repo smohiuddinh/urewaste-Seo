@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .animate-spin-slow {
+    animation: spin 4s linear infinite;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+/* styles.css یا global css */
+.rotate-15 {
+  transform: rotate(220deg);
+}
