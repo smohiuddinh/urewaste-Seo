@@ -81,7 +81,7 @@ const serviceGridData = data.trashCanItems.map((item, index) => ({
     <>
     
        <Seo
-        title="Our Services | UR E-WASTE"
+        title="Our Services | UR E-WASTE – Sustainable Disposal & Resource Recovery"
         description="Discover UR E-WASTE services: secure and eco-friendly e-waste recycling solutions for homes and businesses."
         canonical="https://www.urewaste.com/services"
       />

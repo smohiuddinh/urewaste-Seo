@@ -151,7 +151,7 @@ export default function SchedulePickupPage() {
     <>
     
           <Seo
-        title="Schedule Pickup | UR E-WASTE"
+        title="Schedule Pickup | UR E-WASTE – Convenient E-Waste Collection at Your Doorstep"
         description="Easily schedule your e-waste pickup with UR E-WASTE. Secure, eco-friendly, and hassle-free service for your home or office."
         canonical="https://www.urewaste.com/SchedulePickupPage"
       />

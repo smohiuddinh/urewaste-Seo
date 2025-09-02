@@ -78,7 +78,7 @@ const Footer = () => {
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true }}
-          className="ml-14"
+          className="ml-20"
         >
           <h3 className="text-lg font-semibold mb-4 text-emerald-400">
             Quick Links

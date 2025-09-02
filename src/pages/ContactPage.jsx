@@ -49,7 +49,7 @@ export default function ContactPage() {
   return (
     <>
           <Seo
-        title="Contact Us | UR E-WASTE"
+        title="Contact Us | UR E-WASTE – Get in Touch Today"
         description="Get in touch with UR E-WASTE for secure and eco-friendly e-waste recycling services."
         canonical="https://www.urewaste.com/contact"
       />

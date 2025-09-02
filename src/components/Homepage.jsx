@@ -62,7 +62,7 @@ export default function Homepage() {
     <>
       {/* ✅ SEO */}
       <Seo
-        title="Home | Reduce, Recycle, Recover"
+        title="Home | Reduce, Recycle & Recover for a Greener Future"
         description="UR E-WASTE provides secure, eco-friendly e-waste recycling services for homes and businesses. Schedule a pickup today."
         canonical="https://www.urewaste.com"
       />

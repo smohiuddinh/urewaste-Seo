@@ -43,7 +43,7 @@ const AboutPage = () => {
       {/* Section 1: Intro */}
 
       <Seo
-        title="About Us | UR E-WASTE"
+        title="About Us | UR E-WASTE – Leading the Future of Responsible Recycling"
         description="UR E-WASTE provides secure and eco-friendly e-waste recycling services."
         canonical="https://www.urewaste.com/about"
       />
